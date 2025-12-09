@@ -20,5 +20,3 @@ The model is trained on the *Alice in Wonderland* dataset sourced from Project G
 
 ---
 
-## 📂 Project Structure
-
